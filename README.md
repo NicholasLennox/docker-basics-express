@@ -33,4 +33,3 @@ Running the container
 What all got packaged?
 - Our source code (app.js)
 - package and package lock
-- notes.md
